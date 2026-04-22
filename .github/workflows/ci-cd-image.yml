@@ -33,4 +33,4 @@ jobs:
       - name: view container
         run: docker compose ps
       - name: check container
-        run: curl localhost: 8080
+        run: curl localhost:8080
